@@ -1,2 +1,2 @@
 # CSS-SVG-beautiful_effects
-(https://ageevdmitryminsk.github.io/CSS-SVG-beautiful_effects/index.html)
+[посвящается моей дочери Ксении](https://ageevdmitryminsk.github.io/CSS-SVG-beautiful_effects/index.html)
